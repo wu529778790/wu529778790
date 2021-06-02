@@ -26,10 +26,6 @@ https://blog.csdn.net/qq_42937522/article/details/116429544
 [![Github](https://img.shields.io/github/stars/wu529778790?style=social)](https://github.com/wu529778790)
 [![Gmail Badge](https://img.shields.io/badge/gmail-529778790@qq.com-Green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:529778790@qq.com)](mailto:529778790@qq.com)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?layout=compact&show_owner=true&theme=merko&username=wu529778790&repo=shenzjd.com)](https://github.com/wu529778790/shenzjd.com)
-
-## 关于我
-
 - [个人网站](https://shenzjd.com)
 - [淘宝内部优惠券](http://quan.shenzjd.com/)
 - [天猫疯抢榜](https://taobao.shenzjd.com/index.php?r=p)
