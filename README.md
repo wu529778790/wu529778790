@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 https://blog.csdn.net/qq_42937522/article/details/116429544
 -->
 
-# GitHub Readme Stats
 
-## ⚡ 神族九帝，永不言弃 ⚡
+# ⚡ 神族九帝，永不言弃 ⚡
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wu529778790&show_icons=true&theme=blue-green&hide=prs,contribs&count_private=true)](https://github.com/wu529778790/github-readme-stats)
 
