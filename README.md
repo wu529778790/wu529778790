@@ -24,7 +24,7 @@ https://blog.csdn.net/qq_42937522/article/details/116429544
 
 ![访问个人主页数量](https://komarev.com/ghpvc/?username=wu529778790&color=green)
 [![Github](https://img.shields.io/github/stars/wu529778790?style=social)](https://github.com/wu529778790)
-[![Gmail Badge](https://img.shields.io/badge/gmail-529778790@qq.com-Green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:529778790@qq.com)](mailto:529778790@qq.com)
+[![Gmail Badge](https://img.shields.io/badge/gmail-529778790@qq.com-Green?style=flat-square&hide=php&logo=Gmail&logoColor=white&link=mailto:529778790@qq.com)](mailto:529778790@qq.com)
 
 - [个人网站](https://shenzjd.com)
 - [淘宝内部优惠券](http://quan.shenzjd.com/)
