@@ -31,7 +31,6 @@ https://blog.csdn.net/qq_42937522/article/details/116429544
 - [天猫疯抢榜](https://taobao.shenzjd.com/index.php?r=p)
 - [电脑壁纸](https://shenzjd.com/shenzjd/tupian/)
 - [在线音乐](https://shenzjd.com/shenzjd/music/)
-- [快手美女](https://shenzjd.com/shenzjd/kuaishou/)
 - [视频vip解析](https://shenzjd.com/shenzjd/video/)
 - [博&emsp;&emsp;客](https://blog.shenzjd.com)
 - [微&emsp;&emsp;博](https://weibo.com/277229069)
