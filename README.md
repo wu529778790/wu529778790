@@ -28,9 +28,8 @@ https://blog.csdn.net/qq_42937522/article/details/116429544
 
 - [个人网站](https://shenzjd.com)
 - [技术博客](https://blog.shenzjd.com)
-- [个人网盘](https://pan.shenzjd.com)
+- [网盘资源](https://alist.shenzjd.com)
 - [线报网站](https://xianbao.shenzjd.com/)
-- [天猫榜单](https://taobao.shenzjd.com/index.php?r=p)
 - [电脑壁纸](https://shenzjd.com/shenzjd/tupian/)
 - [在线音乐](https://shenzjd.com/shenzjd/music/)
 - [视频解析](https://shenzjd.com/shenzjd/video/)
