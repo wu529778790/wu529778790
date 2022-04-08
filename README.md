@@ -26,10 +26,13 @@ https://blog.csdn.net/qq_42937522/article/details/116429544
 [![Github](https://img.shields.io/github/stars/wu529778790?style=social)](https://github.com/wu529778790)
 [![Gmail Badge](https://img.shields.io/badge/gmail-529778790@qq.com-Green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:529778790@qq.com)](mailto:529778790@qq.com)
 
+<img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/wu529778790/image/blog/code.gif?raw=true" width="400" height="260" />
+
 - [个人网站](https://shenzjd.com)
 - [技术博客](https://blog.shenzjd.com)
 - [网盘资源](https://alist.shenzjd.com)
-- [线报网站](https://xianbao.shenzjd.com/)
+- [线报网站](https://xianbao.shenzjd.com)
+- [购物商城](https://mall.shenzjd.com)
 - [电脑壁纸](https://shenzjd.com/shenzjd/tupian/)
 - [在线音乐](https://shenzjd.com/shenzjd/music/)
 - [视频解析](https://shenzjd.com/shenzjd/video/)
