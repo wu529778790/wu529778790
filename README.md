@@ -17,7 +17,7 @@ https://blog.csdn.net/qq_42937522/article/details/116429544
 
 # ⚡ 神族九帝，永不言弃 ⚡
 
-![](https://github-readme-stats.vercel.app/api?username=wu529778790&count_private=true&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?hide=php&username=wu529778790&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=wu529778790&count_private=true&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true)
 
 ## Follow Me
 
@@ -37,4 +37,3 @@ https://blog.csdn.net/qq_42937522/article/details/116429544
 - [视频解析](https://shenzjd.com/shenzjd/video/)
 - [图片压缩](https://shenzjd.com/shenzjd/tinyimg/)
 - [在线游戏](https://shenzjd.com/shenzjd/xiaobawang/)
-- [添加水印](https://shenzjd.com/shenzjd/watermark/)
