@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 https://blog.csdn.net/qq_42937522/article/details/116429544
 -->
 
-
 # ⚡ 神族九帝，永不言弃 ⚡
 
 ![](https://github-readme-stats.vercel.app/api?username=wu529778790&count_private=true&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true)
@@ -37,3 +36,6 @@ https://blog.csdn.net/qq_42937522/article/details/116429544
 - [视频解析](https://shenzjd.com/shenzjd/video/)
 - [图片压缩](https://shenzjd.com/shenzjd/tinyimg/)
 - [在线游戏](https://shenzjd.com/shenzjd/xiaobawang/)
+
+
+![Metrics](https://metrics.lecoq.io/wu529778790?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&people=1&activity=1&base.indepth=false&base.hireable=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&activity.limit=10&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FShanghai)
