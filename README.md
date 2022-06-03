@@ -18,7 +18,6 @@ https://blog.csdn.net/qq_42937522/article/details/116429544
 # ⚡ 神族九帝，永不言弃 ⚡
 
 ![](https://github-readme-stats.vercel.app/api?username=wu529778790&count_private=true&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wu529778790&theme=tokyonight_duo)](https://git.io/streak-stats)
 
 ## Follow Me
 
