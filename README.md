@@ -31,7 +31,7 @@ https://blog.csdn.net/qq_42937522/article/details/116429544
 - [网盘资源](https://alist.shenzjd.com)
 - [线报网站](https://xianbao.shenzjd.com)
 - [购物商城](https://mall.shenzjd.com)
-- [电脑壁纸](https://shenzjd.com/shenzjd/tupian/)
+- [电脑壁纸](https://wallpaper.shenzjd.com)
 - [在线音乐](https://shenzjd.com/shenzjd/music/)
 - [视频解析](https://shenzjd.com/shenzjd/video/)
 - [图片压缩](https://shenzjd.com/shenzjd/tinyimg/)
