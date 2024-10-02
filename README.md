@@ -26,13 +26,10 @@ https://blog.csdn.net/qq_42937522/article/details/116429544
 
 <img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/wu529778790/image/blog/code.gif?raw=true" width="400" height="260" />
 
-- [个人网站](https://shenzjd.com)
+- [个人网站](https://www.shenzjd.com)
 - [技术博客](https://blog.shenzjd.com)
 - [网盘资源](https://alist.shenzjd.com)
-- [线报网站](https://xianbao.shenzjd.com)
-- [购物商城](https://mall.shenzjd.com)
 - [电脑壁纸](https://wallpaper.shenzjd.com)
-- [在线音乐](https://shenzjd.com/shenzjd/music/)
-- [视频解析](https://shenzjd.com/shenzjd/video/)
-- [图片压缩](https://shenzjd.com/shenzjd/tinyimg/)
-- [在线游戏](https://shenzjd.com/shenzjd/xiaobawang/)
+- [在线音乐](https://music.shenzjd.com)
+- [视频解析](https://video.shenzjd.com)
+- [在线游戏](https://fc.shenzjd.com)
