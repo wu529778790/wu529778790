@@ -10,14 +10,14 @@
 
 <img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/wu529778790/image/blog/code.gif?raw=true" width="400" height="200" />
 
-- [vscode插件-i18n-automatically](https://marketplace.visualstudio.com/items?itemName=wu529778790.i18n-automatically)
-- [个人网站: https://shenzjd.com](https://shenzjd.com)
-- [技术博客: https://blog.shenzjd.com](https://blog.shenzjd.com)
-- [网盘资源: https://alist.shenzjd.com](https://alist.shenzjd.com)
-- [电脑壁纸: https://wallpaper.shenzjd.com](https://wallpaper.shenzjd.com)
-- [在线音乐: https://music.shenzjd.com](https://music.shenzjd.com)
-- [视频解析: https://video.shenzjd.com](https://video.shenzjd.com)
-- [在线游戏: https://fc.shenzjd.com](https://fc.shenzjd.com)
+- vscode插件: [i18n-automatically](https://marketplace.visualstudio.com/items?itemName=wu529778790.i18n-automatically)
+- 个人网站: [https://shenzjd.com](https://shenzjd.com)
+- 技术博客: [https://blog.shenzjd.com](https://blog.shenzjd.com)
+- 网盘资源: [https://alist.shenzjd.com](https://alist.shenzjd.com)
+- 电脑壁纸: [https://wallpaper.shenzjd.com](https://wallpaper.shenzjd.com)
+- 在线音乐: [https://music.shenzjd.com](https://music.shenzjd.com)
+- 视频解析: [https://video.shenzjd.com](https://video.shenzjd.com)
+- 在线游戏: [https://fc.shenzjd.com](https://fc.shenzjd.com)
 
 <!-- ## Buy me a coffee
 
