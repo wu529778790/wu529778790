@@ -1,10 +1,10 @@
 
 # ⚡ 神族九帝，永不言弃 ⚡
 
+![wu529778790's GitHub stats](https://github-readme-stats.vercel.app/api?username=wu529778790&count_private=true&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true)
+
 ![访问个人主页数量](https://komarev.com/ghpvc/?username=wu529778790&label=Profile%20views&color=0e75b6&style=flat)
 [![Github](https://img.shields.io/github/stars/wu529778790?style=social)](https://github.com/wu529778790)
-
-![wu529778790's GitHub stats](https://github-readme-stats.vercel.app/api?username=wu529778790&count_private=true&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true)
 
 ## 折腾的项目
 
@@ -19,6 +19,6 @@
 - [视频解析: https://video.shenzjd.com](https://video.shenzjd.com)
 - [在线游戏: https://fc.shenzjd.com](https://fc.shenzjd.com)
 
-## Buy me a coffee
+<!-- ## Buy me a coffee
 
-[![Ko-fi](https://img.shields.io/badge/Ko-fi-343B45?style=flat&logo=kofi&logoColor=Black)](https://ko-fi.com/wu529778790)
+[![Ko-fi](https://img.shields.io/badge/Ko-fi-343B45?style=flat&logo=kofi&logoColor=Black)](https://ko-fi.com/wu529778790) -->
