@@ -7,7 +7,7 @@
 
 ## 折腾的项目
 
-<img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/wu529778790/image/blog/code.gif?raw=true" width="400" height="200" />
+<img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/wu529778790/image/blog/code.gif?raw=true" width="400" height="300" />
 
 - vscode插件: [i18n-automatically](https://marketplace.visualstudio.com/items?itemName=wu529778790.i18n-automatically)
 - 个人网站: [https://shenzjd.com](https://shenzjd.com)
