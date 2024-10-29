@@ -15,11 +15,11 @@
 - 网盘资源: [https://alist.shenzjd.com](https://alist.shenzjd.com)
 - 今日热点：[https://news.shenzjd.com](https://news.shenzjd.com)
 - 电脑壁纸: [https://wallpaper.shenzjd.com](https://wallpaper.shenzjd.com)
-<!-- - 在线音乐: [https://music.shenzjd.com](https://music.shenzjd.com) -->
-<!-- - 视频解析: [https://video.shenzjd.com](https://video.shenzjd.com) -->
 - 在线PS: [https://ps.shenzjd.com](https://ps.shenzjd.com)
 - IT工具：[https://it-tools.shenzjd.com](https://it-tools.shenzjd.com)
 - FC游戏: [https://fc.shenzjd.com](https://fc.shenzjd.com)
+<!-- - 在线音乐: [https://music.shenzjd.com](https://music.shenzjd.com) -->
+<!-- - 视频解析: [https://video.shenzjd.com](https://video.shenzjd.com) -->
 
 <!-- ## Buy me a coffee
 
