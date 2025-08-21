@@ -4,7 +4,7 @@
 
 ### 👋 Hi there! I'm a passionate full-stack developer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!;Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!;Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast)](https://git.io/typing-svg){:target="_blank"}
 
 ---
 
@@ -35,18 +35,18 @@
 
 | 🌐 网站工具 | 📝 描述 | 🔗 链接 |
 |:---:|:---:|:---:|
-| **i18n-automatically** | VS Code多语言插件 | [🔌 插件市场](https://marketplace.visualstudio.com/items?itemName=wu529778790.i18n-automatically) |
-| **个人网站** | 类似阮一峰的周报 | [🏠 访问网站](https://shenzjd.com) |
-| **技术博客** | 技术分享与学习笔记 | [📖 阅读博客](https://blog.shenzjd.com) |
-| **网盘搜索** | 强大的网盘资源搜索工具 | [🔍 开始搜索](https://panhub.shenzjd.com) |
-| **网盘资源** | 个人网盘资源管理 | [📁 资源中心](https://alist.shenzjd.com) |
-| **视频解析** | 在线视频解析工具 | [🎬 解析视频](https://parse.shenzjd.com) |
-| **在线PS** | 强大的在线图片编辑器 | [🎨 开始编辑](https://ps.shenzjd.com) |
-| **IT工具** | 开发者常用工具集合 | [🛠️ 工具箱](https://it-tools.shenzjd.com) |
-| **MD编辑器** | 简洁的Markdown编辑器 | [📝 开始写作](https://md.shenzjd.com) |
-| **今日热点** | 实时新闻聚合 | [📰 查看新闻](https://news.shenzjd.com) |
-| **必应壁纸** | 每天手机必应壁纸 | [🖼️ 必应壁纸](https://bing.shenzjd.com) |
-| **电脑壁纸** | 高质量电脑壁纸 | [💻 更多壁纸](https://wallpaper.shenzjd.com) |
+| **i18n-automatically** | VS Code多语言插件 | [🔌 插件市场](https://marketplace.visualstudio.com/items?itemName=wu529778790.i18n-automatically){:target="_blank"} |
+| **个人网站** | 类似阮一峰的周报 | [🏠 访问网站](https://shenzjd.com){:target="_blank"} |
+| **技术博客** | 技术分享与学习笔记 | [📖 阅读博客](https://blog.shenzjd.com){:target="_blank"} |
+| **网盘搜索** | 强大的网盘资源搜索工具 | [🔍 开始搜索](https://panhub.shenzjd.com){:target="_blank"} |
+| **网盘资源** | 个人网盘资源管理 | [📁 资源中心](https://alist.shenzjd.com){:target="_blank"} |
+| **视频解析** | 在线视频解析工具 | [🎬 解析视频](https://parse.shenzjd.com){:target="_blank"} |
+| **在线PS** | 强大的在线图片编辑器 | [🎨 开始编辑](https://ps.shenzjd.com){:target="_blank"} |
+| **IT工具** | 开发者常用工具集合 | [🛠️ 工具箱](https://it-tools.shenzjd.com){:target="_blank"} |
+| **MD编辑器** | 简洁的Markdown编辑器 | [📝 开始写作](https://md.shenzjd.com){:target="_blank"} |
+| **今日热点** | 实时新闻聚合 | [📰 查看新闻](https://news.shenzjd.com){:target="_blank"} |
+| **必应壁纸** | 每天手机必应壁纸 | [🖼️ 必应壁纸](https://bing.shenzjd.com){:target="_blank"} |
+| **电脑壁纸** | 高质量电脑壁纸 | [💻 更多壁纸](https://wallpaper.shenzjd.com){:target="_blank"} |
 
 </div>
 
@@ -56,12 +56,12 @@
 
 <div align="center">
 
-| 📦 包名 | 📝 描述 | 📥 安装 |
+| 📦 包名 | 📝 描述 | 🔗 链接 |
 |:---:|:---:|:---:|
-| **i18n-automatically-cli** | 国际化自动提取命令行工具 | `npm i i18n-automatically-cli` |
-| **extract-seal** | 印章提取工具 | `npm i extract-seal` |
-| **bing-wallpaper-api** | 必应壁纸API接口 | `npm i bing-wallpaper-api` |
-| **deepl-translate-api** | DeepL翻译API封装 | `npm i deepl-translate-api` |
+| **i18n-automatically-cli** | 国际化自动提取命令行工具 | [🔗 npm](https://www.npmjs.com/package/i18n-automatically-cli){:target="_blank"} |
+| **extract-seal** | 印章提取工具 | [🔗 npm](https://www.npmjs.com/package/extract-seal){:target="_blank"} |
+| **bing-wallpaper-api** | 必应壁纸API接口 | [🔗 npm](https://www.npmjs.com/package/bing-wallpaper-api){:target="_blank"} |
+| **deepl-translate-api** | DeepL翻译API封装 | [🔗 npm](https://www.npmjs.com/package/deepl-translate-api){:target="_blank"} |
 
 </div>
 
@@ -96,8 +96,8 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-个人网站-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shenzjd.com)
-[![Blog](https://img.shields.io/badge/Blog-技术博客-green?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.shenzjd.com)
+[![Website](https://img.shields.io/badge/Website-个人网站-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shenzjd.com){:target="_blank"}
+[![Blog](https://img.shields.io/badge/Blog-技术博客-green?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.shenzjd.com){:target="_blank"}
 [![Email](https://img.shields.io/badge/Email-发送邮件-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:529778790@qq.com)
 
 </div>
