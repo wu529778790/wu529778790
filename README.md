@@ -36,7 +36,7 @@
 | 🌐 网站工具 | 📝 描述 | 🔗 链接 |
 |:---:|:---:|:---:|
 | **i18n-automatically** | VS Code多语言插件 | [🔌 插件市场](https://marketplace.visualstudio.com/items?itemName=wu529778790.i18n-automatically) |
-| **个人网站** | 个人主页展示 | [🏠 访问网站](https://shenzjd.com) |
+| **个人网站** | 类似阮一峰的周报 | [🏠 访问网站](https://shenzjd.com) |
 | **技术博客** | 技术分享与学习笔记 | [📖 阅读博客](https://blog.shenzjd.com) |
 | **网盘搜索** | 强大的网盘资源搜索工具 | [🔍 开始搜索](https://panhub.shenzjd.com) |
 | **网盘资源** | 个人网盘资源管理 | [📁 资源中心](https://alist.shenzjd.com) |
@@ -45,7 +45,7 @@
 | **IT工具** | 开发者常用工具集合 | [🛠️ 工具箱](https://it-tools.shenzjd.com) |
 | **MD编辑器** | 简洁的Markdown编辑器 | [📝 开始写作](https://md.shenzjd.com) |
 | **今日热点** | 实时新闻聚合 | [📰 查看新闻](https://news.shenzjd.com) |
-| **必应壁纸** | 精美壁纸下载 | [🖼️ 壁纸下载](https://bing.shenzjd.com) |
+| **必应壁纸** | 每天手机必应壁纸 | [🖼️ 必应壁纸](https://bing.shenzjd.com) |
 | **电脑壁纸** | 高质量电脑壁纸 | [💻 更多壁纸](https://wallpaper.shenzjd.com) |
 
 </div>
