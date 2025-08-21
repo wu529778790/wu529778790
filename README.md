@@ -4,7 +4,7 @@
 
 ### 👋 Hi there! I'm a passionate full-stack developer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!;Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast)](https://git.io/typing-svg){:target="_blank"}
+<a href="https://git.io/typing-svg" target="_blank">![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!;Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast)</a>
 
 ---
 
@@ -35,18 +35,18 @@
 
 | 🌐 网站工具 | 📝 描述 | 🔗 链接 |
 |:---:|:---:|:---:|
-| **i18n-automatically** | VS Code多语言插件 | [🔌 插件市场](https://marketplace.visualstudio.com/items?itemName=wu529778790.i18n-automatically){:target="_blank"} |
-| **个人网站** | 类似阮一峰的周报 | [🏠 访问网站](https://shenzjd.com){:target="_blank"} |
-| **技术博客** | 技术分享与学习笔记 | [📖 阅读博客](https://blog.shenzjd.com){:target="_blank"} |
-| **网盘搜索** | 强大的网盘资源搜索工具 | [🔍 开始搜索](https://panhub.shenzjd.com){:target="_blank"} |
-| **网盘资源** | 个人网盘资源管理 | [📁 资源中心](https://alist.shenzjd.com){:target="_blank"} |
-| **视频解析** | 在线视频解析工具 | [🎬 解析视频](https://parse.shenzjd.com){:target="_blank"} |
-| **在线PS** | 强大的在线图片编辑器 | [🎨 开始编辑](https://ps.shenzjd.com){:target="_blank"} |
-| **IT工具** | 开发者常用工具集合 | [🛠️ 工具箱](https://it-tools.shenzjd.com){:target="_blank"} |
-| **MD编辑器** | 简洁的Markdown编辑器 | [📝 开始写作](https://md.shenzjd.com){:target="_blank"} |
-| **今日热点** | 实时新闻聚合 | [📰 查看新闻](https://news.shenzjd.com){:target="_blank"} |
-| **必应壁纸** | 每天手机必应壁纸 | [🖼️ 必应壁纸](https://bing.shenzjd.com){:target="_blank"} |
-| **电脑壁纸** | 高质量电脑壁纸 | [💻 更多壁纸](https://wallpaper.shenzjd.com){:target="_blank"} |
+| **i18n-automatically** | VS Code多语言插件 | <a href="https://marketplace.visualstudio.com/items?itemName=wu529778790.i18n-automatically" target="_blank">🔌 插件市场</a> |
+| **个人网站** | 类似阮一峰的周报 | <a href="https://shenzjd.com" target="_blank">🏠 访问网站</a> |
+| **技术博客** | 技术分享与学习笔记 | <a href="https://blog.shenzjd.com" target="_blank">📖 阅读博客</a> |
+| **网盘搜索** | 强大的网盘资源搜索工具 | <a href="https://panhub.shenzjd.com" target="_blank">🔍 开始搜索</a> |
+| **网盘资源** | 个人网盘资源管理 | <a href="https://alist.shenzjd.com" target="_blank">📁 资源中心</a> |
+| **视频解析** | 在线视频解析工具 | <a href="https://parse.shenzjd.com" target="_blank">🎬 解析视频</a> |
+| **在线PS** | 强大的在线图片编辑器 | <a href="https://ps.shenzjd.com" target="_blank">🎨 开始编辑</a> |
+| **IT工具** | 开发者常用工具集合 | <a href="https://it-tools.shenzjd.com" target="_blank">🛠️ 工具箱</a> |
+| **MD编辑器** | 简洁的Markdown编辑器 | <a href="https://md.shenzjd.com" target="_blank">📝 开始写作</a> |
+| **今日热点** | 实时新闻聚合 | <a href="https://news.shenzjd.com" target="_blank">📰 查看新闻</a> |
+| **必应壁纸** | 每天手机必应壁纸 | <a href="https://bing.shenzjd.com" target="_blank">🖼️ 必应壁纸</a> |
+| **电脑壁纸** | 高质量电脑壁纸 | <a href="https://wallpaper.shenzjd.com" target="_blank">💻 更多壁纸</a> |
 
 </div>
 
@@ -58,10 +58,10 @@
 
 | 📦 包名 | 📝 描述 | 🔗 链接 |
 |:---:|:---:|:---:|
-| **i18n-automatically-cli** | 国际化自动提取命令行工具 | [🔗 npm](https://www.npmjs.com/package/i18n-automatically-cli){:target="_blank"} |
-| **extract-seal** | 印章提取工具 | [🔗 npm](https://www.npmjs.com/package/extract-seal){:target="_blank"} |
-| **bing-wallpaper-api** | 必应壁纸API接口 | [🔗 npm](https://www.npmjs.com/package/bing-wallpaper-api){:target="_blank"} |
-| **deepl-translate-api** | DeepL翻译API封装 | [🔗 npm](https://www.npmjs.com/package/deepl-translate-api){:target="_blank"} |
+| **i18n-automatically-cli** | 国际化自动提取命令行工具 | <a href="https://www.npmjs.com/package/i18n-automatically-cli" target="_blank">🔗 npm</a> |
+| **extract-seal** | 印章提取工具 | <a href="https://www.npmjs.com/package/extract-seal" target="_blank">🔗 npm</a> |
+| **bing-wallpaper-api** | 必应壁纸API接口 | <a href="https://www.npmjs.com/package/bing-wallpaper-api" target="_blank">🔗 npm</a> |
+| **deepl-translate-api** | DeepL翻译API封装 | <a href="https://www.npmjs.com/package/deepl-translate-api" target="_blank">🔗 npm</a> |
 
 </div>
 
@@ -96,9 +96,9 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-个人网站-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shenzjd.com){:target="_blank"}
-[![Blog](https://img.shields.io/badge/Blog-技术博客-green?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.shenzjd.com){:target="_blank"}
-[![Email](https://img.shields.io/badge/Email-发送邮件-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:529778790@qq.com)
+<a href="https://shenzjd.com" target="_blank">![Website](https://img.shields.io/badge/Website-个人网站-blue?style=for-the-badge&logo=googlechrome&logoColor=white)</a>
+<a href="https://blog.shenzjd.com" target="_blank">![Blog](https://img.shields.io/badge/Blog-技术博客-green?style=for-the-badge&logo=blogger&logoColor=white)</a>
+<a href="mailto:529778790@qq.com">![Email](https://img.shields.io/badge/Email-发送邮件-red?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 </div>
 
