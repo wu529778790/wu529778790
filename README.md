@@ -58,8 +58,8 @@
 
 | 📦 包名 | 📝 描述 | 📥 安装 |
 |:---:|:---:|:---:|
-| **i18n-automatically-cli** | 国际化自动化命令行工具 | `npm i i18n-automatically-cli` |
-| **extract-seal** | 数据提取工具 | `npm i extract-seal` |
+| **i18n-automatically-cli** | 国际化自动提取命令行工具 | `npm i i18n-automatically-cli` |
+| **extract-seal** | 印章提取工具 | `npm i extract-seal` |
 | **bing-wallpaper-api** | 必应壁纸API接口 | `npm i bing-wallpaper-api` |
 | **deepl-translate-api** | DeepL翻译API封装 | `npm i deepl-translate-api` |
 
