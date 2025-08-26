@@ -44,7 +44,7 @@
 | **在线PS** | 强大的在线图片编辑器 | 🎨 [开始编辑](https://ps.shenzjd.com) |
 | **IT工具** | 开发者常用工具集合 | 🛠️ [工具箱](https://it-tools.shenzjd.com) |
 | **MD编辑器** | 简洁的Markdown编辑器 | 📝 [开始写作](https://md.shenzjd.com) |
-| **今日热点** | 实时新闻聚合 | 📰 [查看新闻](https://news.shenzjd.com) |
+| **今日热点** | 实时新闻聚合 | 📰 [查看新闻](https://newshub.shenzjd.com) |
 | **必应壁纸** | 每天手机必应壁纸 | 🖼️ [必应壁纸](https://bing.shenzjd.com) |
 | **电脑壁纸** | 高质量电脑壁纸 | 💻 [更多壁纸](https://wallpaper.shenzjd.com) |
 
