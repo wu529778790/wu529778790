@@ -46,7 +46,6 @@
 | **MD编辑器** | 简洁的Markdown编辑器 | 📝 [开始写作](https://md.shenzjd.com) |
 | **今日热点** | 实时新闻聚合 | 📰 [查看新闻](https://newshub.shenzjd.com) |
 | **必应壁纸** | 每天手机必应壁纸 | 🖼️ [必应壁纸](https://bing.shenzjd.com) |
-| **电脑壁纸** | 高质量电脑壁纸 | 💻 [更多壁纸](https://wallpaper.shenzjd.com) |
 
 </div>
 
