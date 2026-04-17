@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wu529778790&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophies" />
+  <img src="https://trophy.benkou.dev/?username=wu529778790&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophies" />
 </p>
 
 <p align="center">
