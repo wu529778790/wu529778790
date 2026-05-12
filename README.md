@@ -2,28 +2,13 @@
 
 # 🚀 神族九帝，永不言弃 🚀
 
-### 👋 你好！我是一名热爱技术的 AI 全栈工程师
+### 👋 我是一个把AI当第二大脑，每天都在AI Coding的硬核程序员
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!;AI+Full+Stack+Engineer;Open+Source+Contributor;Tech+Enthusiast&font=Fira+Code&size=20&color=F7587A&vCenter=true&width=500&height=50)](https://git.io/typing-svg)
 
 </div>
 
 ---
-
-## 👤 关于我
-
-<table align="center">
-<tr>
-<td>
-
-- 🔭 目前专注于 AI 全栈开发与开源项目
-- 🌱 持续学习新技术，探索最佳实践
-- 💬 欢迎交流技术问题，一起成长
-- ⚡ 热爱创造实用的工具，让开发更高效
-
-</td>
-</tr>
-</table>
 
 ---
 
