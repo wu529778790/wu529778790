@@ -2,9 +2,9 @@
 
 # 🚀 神族九帝，永不言弃 🚀
 
-### 👋 我是一个把AI当第二大脑，每天都在AI Coding的硬核程序员
+### 👋 专注 AI Agent 开发，用智能体重构软件工程
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!;AI+Full+Stack+Engineer;Open+Source+Contributor;Tech+Enthusiast&font=Fira+Code&size=20&color=F7587A&vCenter=true&width=500&height=50)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!;AI+Agent+Engineer;Open+Source+Contributor;Building+Intelligent+Agents&font=Fira+Code&size=20&color=F7587A&vCenter=true&width=500&height=50)](https://git.io/typing-svg)
 
 </div>
 
