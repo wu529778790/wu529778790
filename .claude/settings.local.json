@@ -8,7 +8,14 @@
       "Bash(git add *)",
       "Bash(git commit *)",
       "Bash(git push *)",
-      "WebFetch(domain:github.com)"
+      "WebFetch(domain:github.com)",
+      "Bash(echo \"测试：在没有 skill 的情况下，让 Claude 生成 GitHub README\")",
+      "Bash(echo \"预期行为：\")",
+      "Bash(echo \"1. Claude 可能会尝试使用外部 API\")",
+      "Bash(echo \"2. Claude 可能会生成不完整的 README\")",
+      "Bash(echo \"3. Claude 可能会忽略用户现有 README\")",
+      "Bash(command -v gh)",
+      "Bash(gh api *)"
     ]
   }
 }
