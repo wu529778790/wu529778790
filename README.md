@@ -16,6 +16,22 @@
 
 ---
 
+### 📊 GitHub 统计
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-mu.vercel.app/api?username=wu529778790&theme=radical&hide_border=true&show_icons=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-mu.vercel.app/api/top-langs/?username=wu529778790&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=wu529778790&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
+
+---
+
 ### 🐍 贡献图
 
 <p align="center">
