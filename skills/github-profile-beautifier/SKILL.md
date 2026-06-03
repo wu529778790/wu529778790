@@ -68,7 +68,7 @@ fi
 ### Step 2: 分析仓库
 
 分析仓库信息，识别：
-- 主要项目（star 数高、更新频繁）
+- 主要项目（根据排序方式选择）
 - 技术栈（从语言分布和 package.json）
 - 项目分类（AI Agent、前端、后端、工具等）
 
@@ -80,13 +80,59 @@ if (repos.length === 0) {
   return generateBasicReadme(username);
 }
 
-// 按 star 数排序
-const sortedRepos = repos.sort((a, b) => b.stargazerCount - a.stargazerCount);
+// 筛选非 fork 仓库
+const nonForkRepos = repos.filter(repo => !repo.isFork);
 
-// 筛选 Top 5 项目（排除 fork）
-const topProjects = sortedRepos
-  .filter(repo => !repo.isFork)
-  .slice(0, 5);
+// 根据排序方式选择项目
+let topProjects;
+switch (sortMethod) {
+  case 'stars':
+    // 按 star 数排序
+    topProjects = nonForkRepos
+      .sort((a, b) => b.stargazerCount - a.stargazerCount)
+      .slice(0, 5);
+    break;
+  
+  case 'updated':
+    // 按更新时间排序
+    topProjects = nonForkRepos
+      .sort((a, b) => new Date(b.updatedAt) - new Date(a.updatedAt))
+      .slice(0, 5);
+    break;
+  
+  case 'smart':
+  default:
+    // 智能排序：综合 star、更新时间、描述质量
+    topProjects = nonForkRepos
+      .sort((a, b) => {
+        // 计算综合分数
+        const scoreA = calculateSmartScore(a);
+        const scoreB = calculateSmartScore(b);
+        return scoreB - scoreA;
+      })
+      .slice(0, 5);
+    break;
+}
+
+// 智能排序分数计算
+function calculateSmartScore(repo) {
+  let score = 0;
+  
+  // Star 数权重（40%）
+  score += (repo.stargazerCount || 0) * 0.4;
+  
+  // 更新时间权重（30%）
+  const daysSinceUpdate = (Date.now() - new Date(repo.updatedAt)) / (1000 * 60 * 60 * 24);
+  score += Math.max(0, 30 - daysSinceUpdate) * 0.3; // 30天内更新得满分
+  
+  // 描述质量权重（30%）
+  const description = repo.description || '';
+  if (description.length > 20) score += 30 * 0.3; // 描述详细得满分
+  else if (description.length > 10) score += 20 * 0.3;
+  else if (description.length > 0) score += 10 * 0.3;
+  
+  return score;
+}
 
 // 统计语言分布
 const languageStats = repos.reduce((acc, repo) => {
@@ -99,14 +145,39 @@ const languageStats = repos.reduce((acc, repo) => {
 ### Step 3: 智能推荐
 
 根据分析结果推荐：
-- **项目展示**：Top 5 项目
-- **主题风格**：根据现有 README 风格
+- **项目展示**：根据排序方式选择 Top 5 项目
+- **主题风格**：用户选择或智能匹配
 - **技术栈徽章**：从语言分布生成
 - **Widget 组合**：统计卡片、连续贡献等
 
+**主题选择逻辑：**
+```typescript
+// 检查用户是否指定了主题
+let selectedTheme = theme || 'radical'; // 默认使用 radical
+
+// 如果没有指定主题，智能匹配
+if (!theme) {
+  // 检查用户现有 README
+  const existingReadme = await getExistingReadme(username);
+  
+  if (existingReadme) {
+    // 分析现有 README 的颜色风格
+    const existingTheme = analyzeReadmeTheme(existingReadme);
+    selectedTheme = existingTheme || 'radical';
+  } else {
+    // 新用户使用 radical 主题（流行且美观）
+    selectedTheme = 'radical';
+  }
+}
+
+// 加载主题配置
+const themeConfig = themes[selectedTheme];
+```
+
 **推荐逻辑：**
-- 如果用户有 README → 分析现有风格，保持一致
-- 如果用户无 README → 使用 radical 主题（流行且美观）
+- 如果用户指定了主题 → 使用指定主题
+- 如果用户有 README → 分析现有风格，智能匹配
+- 如果用户无 README → 使用 radical 主题（默认）
 - 如果仓库有 AI 相关项目 → 突出展示 AI Agent 部分
 
 ### Step 4: 生成 README
@@ -154,12 +225,63 @@ const languageStats = repos.reduce((acc, repo) => {
 
 ## Quick Reference
 
+### 基本命令
+
 | 命令 | 说明 | 示例 |
 |------|------|------|
-| `/github-profile-beautifier` | 交互式生成 | 询问用户名 |
-| `/github-profile-beautifier username` | 指定用户名 | `/github-profile-beautifier wu529778790` |
+| `/github-profile-beautifier` | 交互式生成 | 询问用户名和选项 |
+| `/github-profile-beautifier username` | 指定用户名 | 使用默认选项生成 |
+
+### 排序方式
+
+| 参数 | 说明 | 示例 |
+|------|------|------|
+| `--sort stars` | 按 star 数排序 | 展示最受欢迎的项目 |
+| `--sort smart` | 智能排序 | 综合 star、更新时间、描述质量 |
+| `--sort updated` | 按更新时间排序 | 展示最近活跃的项目 |
+
+### 主题选择
+
+| 参数 | 说明 | 风格 |
+|------|------|------|
+| `--theme radical` | Radical 主题 | 活泼、鲜艳（默认） |
+| `--theme tokyonight` | Tokyo Night 主题 | 现代、深色 |
+| `--theme dracula` | Dracula 主题 | 暗黑、紫色 |
+| `--theme minimalist` | Minimalist 主题 | 简洁、专业 |
+| `--theme professional` | Professional 主题 | 商务、蓝色 |
+
+### 完整示例
+
+```bash
+# 按 star 数排序，使用 Tokyo Night 主题
+/github-profile-beautifier wu529778790 --sort stars --theme tokyonight
+
+# 智能排序，使用 Dracula 主题
+/github-profile-beautifier wu529778790 --sort smart --theme dracula
+
+# 按更新时间排序，使用 Minimalist 主题
+/github-profile-beautifier wu529778790 --sort updated --theme minimalist
+```
 
 ## Implementation
+
+### 可用模板
+
+| 模板 | 风格 | 适合场景 |
+|------|------|----------|
+| Radical | 活泼、鲜艳 | 个人项目、创意开发 |
+| Tokyo Night | 现代、深色 | 技术展示、深色主题 |
+| Dracula | 暗黑、紫色 | 深色主题、护眼 |
+| Minimalist | 简洁、专业 | 企业用户、正式场合 |
+| Professional | 商务、蓝色 | 求职者、企业展示 |
+
+### 排序方式
+
+| 排序方式 | 说明 | 适合场景 |
+|----------|------|----------|
+| stars | 按 star 数排序 | 展示最受欢迎的项目 |
+| smart | 智能排序 | 综合 star、更新时间、描述质量 |
+| updated | 按更新时间排序 | 展示最近活跃的项目 |
 
 ### 完整执行流程
 
@@ -172,22 +294,26 @@ const languageStats = repos.reduce((acc, repo) => {
    gh api user --jq '.login,.name,.bio'
    gh repo list $USERNAME --limit 50 --json name,description,primaryLanguage,url,updatedAt,stargazerCount
 
-3. 分析仓库
-   - 按 star 数排序
+3. 交互式选择（如果未指定参数）
+   - 询问排序方式：stars / smart / updated
+   - 询问主题风格：radical / tokyonight / dracula / minimalist / professional
+
+4. 分析仓库
+   - 根据排序方式筛选项目
    - 统计语言分布
    - 识别主要项目
 
-4. 智能推荐
-   - 推荐 Top 5 项目
-   - 推荐主题（radical/tokyonight/dracula）
+5. 智能推荐
+   - 推荐 Top 5 项目（根据排序方式）
+   - 应用选择的主题
    - 推荐技术栈徽章
 
-5. 生成 README
-   - 使用 Handlebars 模板
+6. 生成 README
+   - 使用对应主题模板
    - 填充用户数据
    - 输出完整 README.md
 
-6. 输出结果
+7. 输出结果
    - 显示在终端
    - 可选：保存到文件
 ```
@@ -241,6 +367,8 @@ const languageStats = repos.reduce((acc, repo) => {
 | 不检查 gh CLI 是否安装 | 先检查再执行 | 避免运行时错误 |
 | 不处理用户不存在的情况 | 先验证用户存在性 | 避免无效操作 |
 | 使用不稳定的外部 API | 使用本地 gh 命令 | 保证可靠性 |
+| 只按 star 数排序 | 提供多种排序方式 | 满足不同用户需求 |
+| 强制使用默认主题 | 让用户选择主题 | 尊重用户偏好 |
 
 ## Real-World Impact
 
@@ -250,6 +378,8 @@ const languageStats = repos.reduce((acc, repo) => {
 - 信息过载（展示所有仓库）
 - 风格不一致
 - 不处理错误情况
+- 只能按 star 数排序
+- 强制使用默认主题
 
 **After (有 skill):**
 - 使用本地 `gh` 命令
@@ -257,6 +387,8 @@ const languageStats = repos.reduce((acc, repo) => {
 - 智能推荐 Top 5 项目
 - 风格统一美观
 - 完善的错误处理
+- 多种排序方式可选
+- 多种主题可选
 
 ## Edge Cases
 
