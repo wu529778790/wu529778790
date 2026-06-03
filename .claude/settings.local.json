@@ -3,7 +3,9 @@
     "allow": [
       "WebSearch",
       "Bash(curl:*)",
-      "Bash(curl *)"
+      "Bash(curl *)",
+      "Bash(gh repo *)",
+      "Bash(git add *)"
     ]
   }
 }

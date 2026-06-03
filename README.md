@@ -6,6 +6,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!;AI+Agent+Engineer;Open+Source+Contributor;Building+Intelligent+Agents&font=Fira+Code&size=20&color=F7587A&vCenter=true&width=500&height=50)](https://git.io/typing-svg)
 
+### 🔥 GitHub 账号状态
+
+![Profile Views](https://komarev.com/ghpvc/?username=wu529778790&label=Profile%20views&color=0e75b6&style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/wu529778790?color=blue&style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/wu529778790?color=yellow&style=for-the-badge)
+
 </div>
 
 ---
@@ -25,12 +31,6 @@
   <img src="https://trophy.benkou.dev/?username=wu529778790&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophies" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wu529778790&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/stars/wu529778790?style=for-the-badge&color=yellow" alt="GitHub stars" />
-  <img src="https://img.shields.io/github/followers/wu529778790?style=for-the-badge&color=blue" alt="GitHub followers" />
-</p>
-
 ---
 
 ### 🐍 贡献图
@@ -45,40 +45,80 @@
 
 ---
 
+## 🤖 AI Agent 项目
+
+<div align="center">
+
+![AI Agent](https://img.shields.io/badge/AI_Agent-Ready-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-Powered-4ECDC4?style=for-the-badge&logo=python&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-Enabled-45B7D1?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/wu529778790/TGAgent">
+        <img src="https://github-readme-stats-eight-mu.vercel.app/api/pin/?username=wu529778790&repo=TGAgent&theme=radical&hide_border=true&bg_color=0D1117" alt="TGAgent" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/wu529778790/open-im">
+        <img src="https://github-readme-stats-eight-mu.vercel.app/api/pin/?username=wu529778790&repo=open-im&theme=radical&hide_border=true&bg_color=0D1117" alt="open-im" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🛠️ 我的项目
 
 <div align="center">
 
-| 🌐 项目 | 📝 描述 | 🔗 链接 |
-|:---:|:---|:---:|
-| **i18n-automatically** | VS Code 多语言插件 | 🔌 [插件市场](https://marketplace.visualstudio.com/items?itemName=wu529778790.i18n-automatically) |
-| **个人网站** | 类似阮一峰的周报 | 🏠 [访问](https://shenzjd.com) |
-| **技术博客** | 技术分享与学习笔记 | 📖 [阅读](https://blog.shenzjd.com) |
-| **网盘搜索** | 网盘资源搜索工具 | 🔍 [搜索](https://panhub.shenzjd.com) |
-| **网盘资源** | 个人网盘资源管理 | 📁 [访问](https://alist.shenzjd.com) |
-| **视频解析** | 在线视频解析工具 | 🎬 [解析](https://parse.shenzjd.com) |
-| **在线 PS** | 在线图片编辑器 | 🎨 [编辑](https://ps.shenzjd.com) |
-| **IT 工具** | 开发者工具集合 | 🛠️ [工具箱](https://it-tools.shenzjd.com) |
-| **MD 编辑器** | Markdown 编辑器 | 📝 [写作](https://md.shenzjd.com) |
-| **今日热点** | 实时新闻聚合 | 📰 [查看](https://newshub.shenzjd.com) |
-| **必应壁纸** | 每日必应壁纸 | 🖼️ [浏览](https://bing.shenzjd.com) |
+![VS Code Plugin](https://img.shields.io/badge/VS_Code-Extension-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-App-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-4-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-Backend-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 </div>
 
----
-
-## 📦 NPM 包
-
-<div align="center">
-
-| 📦 包名 | 📝 描述 | 🔗 链接 |
-|:---:|:---|:---:|
-| **i18n-automatically-cli** | 国际化自动提取 CLI 工具 | 🔗 [npm](https://www.npmjs.com/package/i18n-automatically-cli) |
-| **extract-seal** | 印章提取工具 | 🔗 [npm](https://www.npmjs.com/package/extract-seal) |
-| **bing-wallpaper-api** | 必应壁纸 API 接口 | 🔗 [npm](https://www.npmjs.com/package/bing-wallpaper-api) |
-| **deepl-translate-api** | DeepL 翻译 API 封装 | 🔗 [npm](https://www.npmjs.com/package/deepl-translate-api) |
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://marketplace.visualstudio.com/items?itemName=wu529778790.i18n-automatically">
+        <img src="https://github-readme-stats-eight-mu.vercel.app/api/pin/?username=wu529778790&repo=i18n-automatically&theme=radical&hide_border=true&bg_color=0D1117" alt="i18n-automatically" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/wu529778790/VibeDesk">
+        <img src="https://github-readme-stats-eight-mu.vercel.app/api/pin/?username=wu529778790&repo=VibeDesk&theme=radical&hide_border=true&bg_color=0D1117" alt="VibeDesk" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://newshub.shenzjd.com">
+        <img src="https://github-readme-stats-eight-mu.vercel.app/api/pin/?username=wu529778790&repo=newshub.shenzjd.com&theme=radical&hide_border=true&bg_color=0D1117" alt="newshub.shenzjd.com" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://panhub.shenzjd.com">
+        <img src="https://github-readme-stats-eight-mu.vercel.app/api/pin/?username=wu529778790&repo=panhub.shenzjd.com&theme=radical&hide_border=true&bg_color=0D1117" alt="panhub.shenzjd.com" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://parse.shenzjd.com">
+        <img src="https://github-readme-stats-eight-mu.vercel.app/api/pin/?username=wu529778790&repo=parse.shenzjd.com&theme=radical&hide_border=true&bg_color=0D1117" alt="parse.shenzjd.com" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://shenzjd.com">
+        <img src="https://github-readme-stats-eight-mu.vercel.app/api/pin/?username=wu529778790&repo=shenzjd.com&theme=radical&hide_border=true&bg_color=0D1117" alt="shenzjd.com" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -86,7 +126,7 @@
 
 <div align="center">
 
-### 前端
+### 🎨 前端
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -94,14 +134,24 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Nuxt](https://img.shields.io/badge/Nuxt-4-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### 后端 & 工具
+### ⚙️ 后端 & 工具
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+### 🤖 AI & LLM
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-412991?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 </div>
 
@@ -111,9 +161,10 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-个人网站-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shenzjd.com)
-[![Blog](https://img.shields.io/badge/Blog-技术博客-green?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.shenzjd.com)
-[![Email](https://img.shields.io/badge/Email-发送邮件-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:529778790@qq.com)
+[![Website](https://img.shields.io/badge/Website-个人网站-0077B5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shenzjd.com)
+[![Blog](https://img.shields.io/badge/Blog-技术博客-00A98F?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.shenzjd.com)
+[![Email](https://img.shields.io/badge/Email-发送邮件-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:529778790@qq.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wu529778790)
 
 </div>
 
@@ -124,6 +175,11 @@
 ### 🎯 持续学习，持续进步
 
 *"代码改变世界，技术连接未来"*
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=wu529778790%2Fwu529778790&countColor=%2337d67a&style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/wu529778790?color=yellow&style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/wu529778790?color=blue&style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/wu529778790?color=red&style=for-the-badge)
 
 ⭐️ 如果喜欢我的项目，请给我一个 Star 吧！
 
