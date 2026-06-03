@@ -16,21 +16,6 @@
 
 ---
 
-### 📊 GitHub 数据概览
-
-<p align="center">
-  <img src="https://img.shields.io/github/languages/top/wu529778790?style=for-the-badge&logo=javascript&logoColor=white" alt="Top Language" />
-  <img src="https://img.shields.io/github/languages/count/wu529778790?style=for-the-badge&color=blue" alt="Languages Count" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/wu529778790?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/forks/wu529778790?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Forks" />
-  <img src="https://img.shields.io/github/watchers/wu529778790?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Watchers" />
-</p>
-
----
-
 ### 🐍 贡献图
 
 <p align="center">
