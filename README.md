@@ -137,19 +137,3 @@
 
 </div>
 
----
-
-<div align="center">
-
-### 🎯 持续学习，持续进步
-
-*"代码改变世界，技术连接未来"*
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=wu529778790%2Fwu529778790&countColor=%2337d67a&style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/wu529778790?color=yellow&style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/wu529778790?color=blue&style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/wu529778790?color=red&style=for-the-badge)
-
-⭐️ 如果喜欢我的项目，请给我一个 Star 吧！
-
-</div>
