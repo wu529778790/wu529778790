@@ -19,16 +19,14 @@
 ### 📊 GitHub 数据概览
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-mu.vercel.app/api?username=wu529778790&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-mu.vercel.app/api/top-langs/?username=wu529778790&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://img.shields.io/github/languages/top/wu529778790?style=for-the-badge&logo=javascript&logoColor=white" alt="Top Language" />
+  <img src="https://img.shields.io/github/languages/count/wu529778790?style=for-the-badge&color=blue" alt="Languages Count" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=wu529778790&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://trophy.benkou.dev/?username=wu529778790&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophies" />
+  <img src="https://img.shields.io/github/stars/wu529778790?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/forks/wu529778790?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Forks" />
+  <img src="https://img.shields.io/github/watchers/wu529778790?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Watchers" />
 </p>
 
 ---
@@ -55,20 +53,14 @@
 
 </div>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/wu529778790/TGAgent">
-        <img src="https://github-readme-stats-eight-mu.vercel.app/api/pin/?username=wu529778790&repo=TGAgent&theme=radical&hide_border=true&bg_color=0D1117" alt="TGAgent" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/wu529778790/open-im">
-        <img src="https://github-readme-stats-eight-mu.vercel.app/api/pin/?username=wu529778790&repo=open-im&theme=radical&hide_border=true&bg_color=0D1117" alt="open-im" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| 🌐 项目 | 📝 描述 | ⭐ Stars | 🔗 链接 |
+|:---:|:---|:---:|:---:|
+| **TGAgent** | 基于 LLM 的 Telegram 内容自动化运营系统 | ![Stars](https://img.shields.io/github/stars/wu529778790/TGAgent?style=social) | [🔗 GitHub](https://github.com/wu529778790/TGAgent) |
+| **open-im** | 多平台 IM 桥接工具，连接 Claude Code/Codex/Cursor | ![Stars](https://img.shields.io/github/stars/wu529778790/open-im?style=social) | [🔗 GitHub](https://github.com/wu529778790/open-im) |
+
+</div>
 
 ---
 
@@ -83,42 +75,19 @@
 
 </div>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://marketplace.visualstudio.com/items?itemName=wu529778790.i18n-automatically">
-        <img src="https://github-readme-stats-eight-mu.vercel.app/api/pin/?username=wu529778790&repo=i18n-automatically&theme=radical&hide_border=true&bg_color=0D1117" alt="i18n-automatically" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/wu529778790/VibeDesk">
-        <img src="https://github-readme-stats-eight-mu.vercel.app/api/pin/?username=wu529778790&repo=VibeDesk&theme=radical&hide_border=true&bg_color=0D1117" alt="VibeDesk" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://newshub.shenzjd.com">
-        <img src="https://github-readme-stats-eight-mu.vercel.app/api/pin/?username=wu529778790&repo=newshub.shenzjd.com&theme=radical&hide_border=true&bg_color=0D1117" alt="newshub.shenzjd.com" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://panhub.shenzjd.com">
-        <img src="https://github-readme-stats-eight-mu.vercel.app/api/pin/?username=wu529778790&repo=panhub.shenzjd.com&theme=radical&hide_border=true&bg_color=0D1117" alt="panhub.shenzjd.com" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://parse.shenzjd.com">
-        <img src="https://github-readme-stats-eight-mu.vercel.app/api/pin/?username=wu529778790&repo=parse.shenzjd.com&theme=radical&hide_border=true&bg_color=0D1117" alt="parse.shenzjd.com" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://shenzjd.com">
-        <img src="https://github-readme-stats-eight-mu.vercel.app/api/pin/?username=wu529778790&repo=shenzjd.com&theme=radical&hide_border=true&bg_color=0D1117" alt="shenzjd.com" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| 🌐 项目 | 📝 描述 | 🔗 链接 |
+|:---:|:---|:---:|
+| **i18n-automatically** | VS Code 多语言插件，自动扫描中文并替换为国际化键值 | 🔌 [插件市场](https://marketplace.visualstudio.com/items?itemName=wu529778790.i18n-automatically) |
+| **VibeDesk** | 基于 WebRTC 的跨平台远程桌面控制系统（Flutter） | 🔗 [GitHub](https://github.com/wu529778790/VibeDesk) |
+| **newshub.shenzjd.com** | 40+ 平台热点内容聚合器（Nuxt 4 + Nitro） | 📰 [查看](https://newshub.shenzjd.com) |
+| **panhub.shenzjd.com** | 聚合网盘搜索工具，覆盖阿里云盘、夸克、百度网盘等 | 🔍 [搜索](https://panhub.shenzjd.com) |
+| **parse.shenzjd.com** | 短视频解析 API，支持抖音、快手、B站等多个平台 | 🎬 [解析](https://parse.shenzjd.com) |
+| **个人网站** | 类似阮一峰的周报 | 🏠 [访问](https://shenzjd.com) |
+| **技术博客** | 技术分享与学习笔记 | 📖 [阅读](https://blog.shenzjd.com) |
+
+</div>
 
 ---
 
