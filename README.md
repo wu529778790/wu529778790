@@ -55,10 +55,10 @@
 
 <div align="center">
 
-| 🌐 项目 | 📝 描述 | ⭐ Stars | 🔗 链接 |
-|:---:|:---|:---:|:---:|
-| **TGAgent** | 基于 LLM 的 Telegram 内容自动化运营系统 | ![Stars](https://img.shields.io/github/stars/wu529778790/TGAgent?style=social) | [🔗 GitHub](https://github.com/wu529778790/TGAgent) |
-| **open-im** | 多平台 IM 桥接工具，连接 Claude Code/Codex/Cursor | ![Stars](https://img.shields.io/github/stars/wu529778790/open-im?style=social) | [🔗 GitHub](https://github.com/wu529778790/open-im) |
+| 🌐 项目 | 📝 描述 | 🔗 链接 |
+|:---:|:---|:---:|
+| **TGAgent** | 基于 LLM 的 Telegram 内容自动化运营系统 | [🔗 GitHub](https://github.com/wu529778790/TGAgent) |
+| **open-im** | 多平台 IM 桥接工具，连接 Claude Code/Codex/Cursor | [🔗 GitHub](https://github.com/wu529778790/open-im) |
 
 </div>
 
