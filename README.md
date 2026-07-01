@@ -6,25 +6,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!;AI+Agent+Engineer;Open+Source+Contributor;Building+Intelligent+Agents&font=Fira+Code&size=20&color=F7587A&vCenter=true&width=500&height=50)](https://git.io/typing-svg)
 
-### 🔥 GitHub 账号状态
-
-![Profile Views](https://komarev.com/ghpvc/?username=wu529778790&label=Profile%20views&color=0e75b6&style=for-the-badge)
-![GitHub Followers](https://img.shields.io/github/followers/wu529778790?color=blue&style=for-the-badge)
-![GitHub Stars](https://img.shields.io/github/stars/wu529778790?color=yellow&style=for-the-badge)
-
-</div>
-
 ---
-
-### 📊 GitHub 统计
 
 <p align="center">
   <img src="https://github-readme-stats-eight-mu.vercel.app/api?username=wu529778790&theme=radical&hide_border=true&show_icons=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 ---
-
-### 🐍 贡献图
 
 <p align="center">
   <picture>
