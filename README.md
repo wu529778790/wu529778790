@@ -36,21 +36,28 @@
 
 ---
 
-## 🛠️ 我的项目
+## 🤖 AI Agent
 
 <div align="center">
 
 | 🌐 项目 | 📝 描述 | 🔗 链接 |
 |:---:|:---|:---:|
-| **i18n-automatically** | VS Code 多语言插件，自动扫描中文并替换为国际化键值 | 🔌 [插件市场](https://marketplace.visualstudio.com/items?itemName=wu529778790.i18n-automatically) |
-| **VibeDesk** | 基于 WebRTC 的跨平台远程桌面控制系统（Flutter） | 🔗 [GitHub](https://github.com/wu529778790/VibeDesk) |
-| **newshub.shenzjd.com** | 40+ 平台热点内容聚合器（Nuxt 4 + Nitro） | 📰 [查看](https://newshub.shenzjd.com) |
-| **panhub.shenzjd.com** | 聚合网盘搜索工具，覆盖阿里云盘、夸克、百度网盘等 | 🔍 [搜索](https://panhub.shenzjd.com) |
-| **parse.shenzjd.com** | 短视频解析 API，支持抖音、快手、B站等多个平台 | 🎬 [解析](https://parse.shenzjd.com) |
-| **个人网站** | 类似阮一峰的周报 | 🏠 [访问](https://shenzjd.com) |
-| **技术博客** | 技术分享与学习笔记 | 📖 [阅读](https://blog.shenzjd.com) |
+| **TGAgent** | 基于 LLM 的 Telegram 内容自动化运营系统 | [🔗 GitHub](https://github.com/wu529778790/TGAgent) |
+| **open-im** | 多平台 IM 桥接工具，连接 Claude Code/Codex/Cursor | [🔗 GitHub](https://github.com/wu529778790/open-im) |
 
 </div>
+
+## 🌐 网址导航
+
+- 网址导航：<https://navhub.shenzjd.com>
+- 热门资源：<https://shenzjd.com>
+- 网盘搜索：<https://panhub.shenzjd.com>
+- 在线网盘：<https://alist.shenzjd.com>
+- 视频解析：<https://parse.shenzjd.com>
+- GIT 图床：<https://img.shenzjd.com>
+- GIT 短链：<https://duanlian.shenzjd.com>
+- 热点聚合：<https://newshub.shenzjd.com>
+- 必应壁纸：<https://bing.shenzjd.com>
 
 ---
 
@@ -61,6 +68,5 @@
 [![Website](https://img.shields.io/badge/Website-个人网站-0077B5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shenzjd.com)
 [![Blog](https://img.shields.io/badge/Blog-技术博客-00A98F?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.shenzjd.com)
 [![Email](https://img.shields.io/badge/Email-发送邮件-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:529778790@qq.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wu529778790)
 
 </div>
