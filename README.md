@@ -1,3 +1,5 @@
+<div align="center">
+
 # 🚀 神族九帝，永不言弃 🚀
 
 ## 👋 一个把AI当第二大脑，每天都在AI Coding的硬核程序员
@@ -11,6 +13,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wu529778790/wu529778790/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/wu529778790/wu529778790/output/github-snake-dark.svg" />
 </picture>
+
+</div>
 
 ## 🌐 网址导航
 
