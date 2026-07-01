@@ -15,7 +15,8 @@
       "Bash(echo \"2. Claude 可能会生成不完整的 README\")",
       "Bash(echo \"3. Claude 可能会忽略用户现有 README\")",
       "Bash(command -v gh)",
-      "Bash(gh api *)"
+      "Bash(gh api *)",
+      "Bash(git checkout *)"
     ]
   }
 }
