@@ -27,3 +27,20 @@
 - GIT 短链：<https://duanlian.shenzjd.com>
 - 热点聚合：<https://newshub.shenzjd.com>
 - 必应壁纸：<https://bing.shenzjd.com>
+
+## 精选开源
+
+<table align="center">
+<tr>
+<td width="50%">
+<a href="https://github.com/wu529778790/TGAgent">
+<img src="https://github-readme-stats-eight-mu.vercel.app/api/pin/?username=wu529778790&repo=TGAgent&theme=radical&hide_border=true" />
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/wu529778790/img.shenzjd.com">
+<img src="https://github-readme-stats-eight-mu.vercel.app/api/pin/?username=wu529778790&repo=img.shenzjd.com&theme=radical&hide_border=true" />
+</a>
+</td>
+</tr>
+</table>
