@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!;AI+Agent+Engineer;Open+Source+Contributor;Building+Intelligent+Agents&font=Fira+Code&size=20&color=F7587A&vCenter=true&width=500&height=50)](https://git.io/typing-svg)
 
-![GitHub Stats](https://github-readme-stats-eight-mu.vercel.app/api?username=wu529778790&theme=radical&hide_border=true&show_icons=true&count_private=true)
+![GitHub Stats](https://ghstats.dev/api/card?username=wu529778790&theme=radical&hide_title=true&hide_border=true&show_icons=true)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wu529778790/wu529778790/output/github-snake-dark.svg" />
